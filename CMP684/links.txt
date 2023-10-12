@@ -1,0 +1,3 @@
+https://github.com/XinyiYing/LESPS
+https://github.com/XinyiYing/BasicIRSTD
+https://github.com/Tianfang-Zhang/awesome-infrared-small-targets
